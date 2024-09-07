@@ -11,7 +11,7 @@ profile for github
    - BioInformatics
    - Machine Learning & Deep Learning
 
-- 🔬 **Work Experience on:**
+- 🔬 **Work Experience on(Research):**
    - DL & ML
    - - Machine Learning
      - Natural Language Processing 
@@ -25,15 +25,16 @@ profile for github
    - Genome Sequencing - BIO II
 
 - 🛠️ **Technical Skills:**
-  
+     Being a full stack web dev, adept in related knowledges. Followings are worth mentioning.
    - Languages: C#, Python, Javascript, TypeScript, C, R, Java
    - Frameworks: .NET, Angular, AngularJs
+   - Could Services: Azure
    - ML & DL: Data analysis using Numpy, Pandas, Matplotlib, Seaborn, Keras, SciKit-Learn, TensorFlow.
    - Database Management: SQL, MySQL, Redis
    - NGS Data Analysis, Microarray analysis
 
 - 💼 **Professional Experience:**
-   - Software Engineer @SECURE LINK SERVICES LTD (SELISE), Dhaka, Bangladesh
+   - Software Engineer @SECURE LINK SERVICES LTD ([SELISE](https://selisegroup.com/)), Dhaka, Bangladesh
    - Research Assistant, Natural Language Processing Lab, Shahjalal University of Science & Technology, Sylhet, Bangladesh
 
 - 📑 **Research Publications & Conference:**

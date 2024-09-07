@@ -1,5 +1,4 @@
 # sourav-sarker
-profile for github
 
 ### 👋 Hi, I’m Sourav Sarker
 

@@ -41,7 +41,7 @@ profile for github
    - Published on ICBSLP-2019: Bengali question answering system for factoid questions: A statistical approach. [DOI](10.1109/ICBSLP47725.2019.201512)
    - Published on ICASERT-2019: Classification of Bengali Questions Towards a Factoid Question Answering System. [DOI](10.1109/ICASERT.2019.8934567)
 
-- 💞️ **I’m Looking to Collaborate (Not Now)** 
+- 🌐 **I’m Looking to Collaborate** 
 
 - 📫 **How to Reach Me:**
    - [LinkedIn](https://www.linkedin.com/in/sourav-sarker-6a9029b8/)

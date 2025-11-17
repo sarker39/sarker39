@@ -41,7 +41,7 @@
    - Published on ICASERT-2019: Classification of Bengali Questions Towards a Factoid Question Answering System. [DOI](10.1109/ICASERT.2019.8934567)
 
 - 🌐 **I’m Looking to Collaborate** 
-- 🌐 **[Personal Portfolio](https//iamsourav.site/)** - iamsourav.site 
+- 🌐 **[Personal Portfolio](https://iamsourav.site/)** - iamsourav.site 
 - 📫 **How to Reach Me:**
    - [LinkedIn](https://www.linkedin.com/in/sourav-sarker-6a9029b8/)
    - Email: sourav39.dev@gmail.com
